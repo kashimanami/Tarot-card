@@ -1,0 +1,66 @@
+body{
+	text-align: center;
+	font-family: 'Century Gothic';
+	color: #fffffe;
+	background-color: #232946;
+}
+
+h2{
+	margin-bottom: 100px;
+}
+
+
+.button {
+  background:linear-gradient(45deg, #eebbc3, #b8c1ec);/*グラデーションを定義*/
+  animation: bggradient 1s ease infinite;
+  background-size: 200% 200%;/*サイズを大きくひきのばす*/
+  border-radius: 10px;
+  padding: 20px 50px 20px 50px;
+  cursor : pointer;
+  box-shadow: 0px 0px 40px 0px #fffffe;
+}
+
+.button:hover{
+	background: #b8c1ec;
+}
+
+@keyframes bggradient{
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.section{
+	display: none;
+}
+
+.card_area{
+	margin-top: 40px;
+}
+
+
+table{
+	display: inline;
+	border-collapse: collapse;
+}
+
+.card_num_t, .card_name_t, .card_intro_t{
+	border: none;
+	padding-right: 30px;
+}
+.card_num_d, .card_name_d, .card_intro_d{
+	border-left: solid 3px #fffffe;
+	padding-left: 30px;
+}
+
+
+
+.card_num{
+	text-align: center;
+}
