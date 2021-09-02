@@ -2,4 +2,4 @@
 ---
 This page is "Fortune-telling of Tarot card".  
 I will do a tarot reading💡  
-After, I will drow pictures of Tarot card.
+After, I will drow pictures of Tarot card🎨
