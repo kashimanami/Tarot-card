@@ -201,7 +201,7 @@
 						rnd_intro = "Complete, Utopia, Clear, Satisfaction";
 					}else{
 						rnd_name = "THE WORLD（Reverse）";
-						rnd_name = "Uncomplete, Inertia, Unsatisfactory, Stagnation";
+						rnd_intro = "Uncomplete, Inertia, Unsatisfactory, Stagnation";
 					}
 				}
 				$('.card_num').text(rnd_num);
