@@ -80,6 +80,12 @@ td{
 	text-align: center;
 }
 
-.contact-icon{
+i{
 	color: #fffffe;
+}
+
+footer{
+	position: absolute;
+	bottom: 0px;
+	right: 50%;
 }
