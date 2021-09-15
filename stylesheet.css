@@ -85,8 +85,6 @@ i{
 	margin: 10px;
 }
 
-footer{
-	position: absolute;
-	bottom: 0px;
-	right: 45%;
+i:hover{
+	color: #b8c1ec;
 }
